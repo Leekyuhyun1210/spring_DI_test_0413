@@ -3,6 +3,7 @@
 	<name>spring_DI_test_0413</name>
 	<comment></comment>
 	<projects>
+		<project>spring_helloworld_0413</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
